@@ -46,7 +46,8 @@ public class HellowWorld {
 		System.out.println("¹Ý°©½À´Ï´Ù.");
 		System.out.println("Á¡½ÉÀº ¹¹ µå¼Ì¾î¿ä?");
 		System.out.println("ÇÜ¹ö°Å¿ä.");
-				
+	
+	
 	}
 	
 }
