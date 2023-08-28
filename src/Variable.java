@@ -74,5 +74,7 @@ public class Variable {
 		System.out.println(number6 % number5);
 		
 		
+		
+		
 	}
 }
